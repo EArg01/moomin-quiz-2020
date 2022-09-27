@@ -1,0 +1,46 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+  background: url( https://bhf-cdn.azureedge.net/bhf-blob-prod/0023025_moomin-green-novelty-wallpaper_600.jpeg)}
+
+h1 { text-align: center;
+  color:  #94b8b8;
+  font-family: cursive;
+  margin: 100ppx;
+  padding:100ppx;
+  background-color: #ffffff;}
+
+h2 {text-align: center;
+  margin-top: 2em; 
+}
+
+.question {
+  display: flex;
+  /*HEre is where I added some code*/
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 2em;
+}
+  
+.answer-choice img {
+  height: 10em;
+}
+
+#game {margin-left:50px;
+}
+#friends {margin-left: 20px;}
+#explore {margin-left:20px;}
+#cook{margin-left:20px;}
+
+#tea {margin-left:50px;}
+#lemonade{margin-left: 20px;}
+#cola{margin-left: 20px;}
+#water{margin-left: 20px;}
+
+#room1{margin-left: 100px;}
+#room2{margin-left: 20px;}
+#room3{margin-left: 20px;}
+#room4{margin-left: 20px;}*/
